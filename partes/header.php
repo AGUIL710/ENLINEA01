@@ -1,6 +1,7 @@
 <div class="row mt-5">
     <div class="col-sm-12 col-md-6">
-        <h2 class="ml-5 h2">EN LíNEA</h1>
+        <h2 class="ml-5 h2">
+            <img style="width: 70px;" src="resources/img/logo.png" alt=""> EN LíNEA</h1>
 
     </div>
 
@@ -8,7 +9,7 @@
         <p class="text-right pr-5 mt-2    ">SOLUCIONES MUNDIALES</p>
     </div>
 </div>
-<div class="row">
+<div class="row mt-4">
 
 
     <div class="col-sm-12">
